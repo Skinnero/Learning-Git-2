@@ -1,7 +1,7 @@
 body {
     font-family: "Georgia", serif;
-    background-color: #f8f9fa;
-    color: #333;
+    background-color: #333232;
+    color: #d5d0d0;
     max-width: 800px;
     margin: 50px auto;
     padding: 20px;
@@ -10,7 +10,7 @@ body {
 
 h1, h2 {
     text-align: center;
-    color: #222;
+    color: #e8dfdf;
 }
 
 p {
